@@ -1,2 +1,3 @@
 # Hello-world-II
-Just another repo v2
+
+trying to remember how to use git and github
